@@ -1,0 +1,80 @@
+*{
+    margin: 0%;
+}
+h2{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+@font-face {
+    font-family:my font ;
+    src: url(./assest/SignikaNegative-VariableFont_wght.ttf);
+}
+h2{
+    font-family: my font;
+    font-weight: bolder;
+    text-shadow: 2px 3px 2px rgb(123, 119, 119);
+    word-spacing: 6px;
+    letter-spacing: 1px;
+}
+h1{
+    font-family: my font;
+}
+.colour{
+background-color: rgb(21, 10, 240);
+color: aliceblue;
+}
+.another{
+    background-color: rgb(45,45, 242);
+    color: aliceblue;
+}
+div{
+    background-color: rgb(62, 65, 245);
+    color: aliceblue;
+}
+.three{
+    background-color: rgb(76, 76, 265);
+    color: aliceblue;
+}
+p{
+    background-color: rgb(89, 89, 300);
+    color: aliceblue;;
+}
+.six{
+    background-color: rgb(99, 99, 330);
+    color: aliceblue;
+}
+.seven{
+    background-color: rgb(110,110, 340);
+    color: aliceblue;
+}
+.eight{
+    background-color: rgb(23, 216, 113);
+    color: aliceblue;
+}
+.one{
+    background-color: rgb(255, 209, 245);
+}
+.two{
+    background-color: rgb(245,195,231);
+}
+.thre{
+    background-color: rgb(235, 185, 221);
+}
+.four{
+    background-color: rgb(225, 175, 211);
+}
+.five{
+    background-color: rgb(215, 165, 191);
+}
+.color{
+    background-color:rgb(205, 155, 181);
+}
+.s{
+    background-color: rgb(190,145, 171);
+}
+.e{
+    background-color: rgb(130, 130, 360);
+}
+
